@@ -1,0 +1,91 @@
+[Files]
+main.cpp <---- obv this is where the main sutff that we have
+parser.cpp <-------- parses file to something easy to read by the code remove comments, etc.
+classes.cpp <----- default libraries like datatypes and stuff
+errors.cpp <------- obvious
+
+
+// ----------------------------------------------------------- //
+
+|>                            THIS IS HOW IMPORTS WORKS                                   <|
+
+class:import MEMORY from ROOT from NESTED_CLASS from EVEN_NESTED_CLASS from EVEN_MORE_NESTED_CLASS
+type:import ARRAY wtvr u get the point
+type:import STRING from DATA_TYPES from ROOT
+type:import FLOAT from SUB_TYPES from INT from DATA_TYPES from ROOT
+task:import toLowerCase from STRING from DATA_TYPES from ROOT
+
+|>                            THIS IS HOW FUNCTIONS WORKS                                   <|
+
+MEMORY.CREATE=variables(500)
+MEMORY.CREATE=objects(500)
+MEMORY.CREATE=files(500)
+MEMORY.CREATE=cacheorwtvruwannanameit(500)
+IMPORTEDPACKAGE.CUSTOMFUNCTION=("sex lets have sex")
+
+why are u here COME DOWN MAYBE ??
+
+|>                     THIS IS HOW LOGIC GATES WORK (IF ELSE ELSE IF STATEMENT)                 <
+
+logic (x < 10) {
+    when_condition_met {
+
+    }
+
+    if_not_met {
+        logic (x < 5) {
+            when_condition_met {
+
+            } if_not_met {
+                logic (x < 2) {
+                    when_condition_met {
+
+                    } if_not_met {
+                
+                    }
+                }
+            }
+        }
+    }
+}
+
+|>                                    THIS IS HOW LOOPS WORK                                <|
+
+while:
+repeat (x < 10) {
+    
+}
+
+
+
+
+
+|>                                    Function List                                     <|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
